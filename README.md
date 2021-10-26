@@ -14,3 +14,17 @@ And the author_url="https://domain.com/icons/pihole.png" to where ever you host 
 I use it on my Raspi 3, starting the script via a cron job.
 
 The script is heavily inspired by https://hotio.dev/pullio/ and Pullio was used as reference.
+
+Examples: 
+
+Normal:
+
+![Normal](https://github.com/quorn23/Pi-Hole-Discord-Notification/blob/2b33f20e0447176ce80e91ef039f7aa77c937b87/normal.jpg)
+
+Disc Space low:
+
+![Discspace](https://github.com/quorn23/Pi-Hole-Discord-Notification/blob/2b33f20e0447176ce80e91ef039f7aa77c937b87/discspace.jpg)
+
+Update available:
+
+![Update](https://github.com/quorn23/Pi-Hole-Discord-Notification/blob/2b33f20e0447176ce80e91ef039f7aa77c937b87/update.jpg)
